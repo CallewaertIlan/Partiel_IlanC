@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{84CDB937-449C-35C8-83DE-BF93012FAEA3}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Partiel_IlanC",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
